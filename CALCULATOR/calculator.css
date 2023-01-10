@@ -1,0 +1,21 @@
+#mainContainerCalculator{
+    height:450px;
+    width: 300px;
+    border:1px solid black;
+    position:relative;
+    left:34%;
+    top: 100px;
+}
+
+#screenContainer{
+    height: 80px;
+    width:100%;
+    border-bottom: 1px solid black;
+    display:flex;
+    justify-content: flex-end;
+
+}
+
+#numberOnScreen{
+    font-size: 30px;
+}
